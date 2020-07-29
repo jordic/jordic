@@ -1,4 +1,5 @@
-Hi, all!
+Hey, that's my opensource side. I try to opeonsource as much as I can.
+I'm github addicted. The smell of reading github repos on the morning!
 
 ## Blog
 
